@@ -1,0 +1,3 @@
+C:/Users/konra/CLionProjects/project.git.train/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/konra/CLionProjects/project.git.train/cmake-build-debug/CMakeFiles/project_git_train.dir
+C:/Users/konra/CLionProjects/project.git.train/cmake-build-debug/CMakeFiles/rebuild_cache.dir
